@@ -13,7 +13,20 @@
 # d="Hello"
 # e="hello"
 # print (a is b)
-"""a= let me tell a kutti story
+a="""let me tell a kutti story
 story.. story.. not.. boring...
 lalaa lalaa lalaa la la la la """
 print(a)
+b="python"
+print(b[1])
+print(b[0:3])
+print(b[::-1])
+print(b[::-3])
+print(b[-1])
+print(b[-2])
+print(len(b))
+print(b.upper())
+print(b.lower())
+print(b.replace("y","z"))
+print(b.startswith("p"))
+print(b.endswith("n"))
