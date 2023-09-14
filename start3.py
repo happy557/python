@@ -11,3 +11,15 @@
 a="hello"
 b= list(a)
 print(b)
+l=[1,2,3,4.5,"abc",2,2]
+# print(l)
+l.append("abc")
+print(l)
+l.insert(1,"ss")
+print(l)
+l.remove("abc")
+print(l)
+del l[0]
+print(l)
+l[1]=22
+print(l)
