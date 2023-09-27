@@ -14,10 +14,14 @@
 # b.sort()
 # print(b[-2])
 # print(b[1])
-string=input("enter a string")
-if(string==string[::-1]):
-    print(len(string)* " @")
-    print("string is a palindrome")
-else:
-    print("string is not a palindrome")
+# string=input("enter a string")
+# if(string==string[::-1]):
+#     print(len(string)* " @")
+#     print("string is a palindrome")
+# else:
+#     print("string is not a palindrome")
+    
+    
+l=[7,12,14,8,4]
+print(l[0]+l[2])
     
