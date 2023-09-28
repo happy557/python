@@ -22,6 +22,5 @@
 #     print("string is not a palindrome")
     
     
-l=[7,12,14,8,4]
-print(l[0]+l[2])
+
     
