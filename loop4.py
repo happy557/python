@@ -22,5 +22,3 @@
 #     print("string is not a palindrome")
     
     
-
-    
