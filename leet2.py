@@ -1,4 +1,4 @@
-strs = ["flower","flow","flight"]
+strs = ["sun","sunflower","sunlight"]
 if not strs:
     prefix=""
 else:
