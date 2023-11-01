@@ -127,17 +127,24 @@
 
 #Q=7
 
-number=int(input("enter anumber(1-7):"))
-days={
-    1:'sunday',
-    2:'monday',
-    3:'tuesday',
-    4:'wednesday',
-    5:'thursday',
-    6:'friday',
-    7:'saturday'
-}
-if 1<=number<=7:
-    print("day is:",days[number] )
-else:
-    print("invalid input")
+# number=int(input("enter anumber(1-7):"))
+# days={
+#     1:'sunday',
+#     2:'monday',
+#     3:'tuesday',
+#     4:'wednesday',
+#     5:'thursday',
+#     6:'friday',
+#     7:'saturday'
+# }
+# if 1<=number<=7:
+#     print("day is:",days[number] )
+# else:
+#     print("invalid input")
+
+adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+
+for x in adj:
+  for y in fruits:
+    print(x, y) 
