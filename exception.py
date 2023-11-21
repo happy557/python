@@ -6,7 +6,7 @@ except Exception as ex:
   print(ex)
   print("Print failed")
 finally:
-  print("Final stament")
+  print("Final statement")
 
 x = 10
 y = "0"
